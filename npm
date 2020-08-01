@@ -1,0 +1,73 @@
+
+Creating a new React app in E:\ACC notes\Notice\react\reactutorial\shakeelapp\app-example.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts with cra-template...
+
+
+> core-js@2.6.11 postinstall E:\ACC notes\Notice\react\reactutorial\shakeelapp\app-example\node_modules\babel-runtime\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> core-js@3.6.5 postinstall E:\ACC notes\Notice\react\reactutorial\shakeelapp\app-example\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> core-js-pure@3.6.5 postinstall E:\ACC notes\Notice\react\reactutorial\shakeelapp\app-example\node_modules\core-js-pure
+> node -e "try{require('./postinstall')}catch(e){}"
+
++ react@16.13.1
++ react-scripts@3.4.1
++ react-dom@16.13.1
++ cra-template@1.0.3
+added 1602 packages from 751 contributors and audited 1606 packages in 877.311s
+
+61 packages are looking for funding
+  run `npm fund` for details
+
+found 1 low severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+Installing template dependencies using npm...
++ @testing-library/jest-dom@4.2.4
++ @testing-library/user-event@7.2.1
++ @testing-library/react@9.5.0
+added 36 packages from 57 contributors and audited 1642 packages in 114.598s
+
+61 packages are looking for funding
+  run `npm fund` for details
+
+found 1 low severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+Removing template package using npm...
+
+removed 1 package and audited 1641 packages in 30.852s
+
+61 packages are looking for funding
+  run `npm fund` for details
+
+found 1 low severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+Success! Created app-example at E:\ACC notes\Notice\react\reactutorial\shakeelapp\app-example
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd app-example
+  npm start
+
+Happy hacking!
